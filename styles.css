@@ -333,7 +333,7 @@ footer .container .btn-logo{
 }
 .social-links a {
     padding: 12px;
-    /*color: white;*/
+   text-decoration: none;
 }
 .website_rights{
     font-size: 13px;
