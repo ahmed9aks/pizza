@@ -271,7 +271,7 @@ p{
 }
 .main-content, .main-content h1, .main-content p{
     color: #131313;
-    padding: 10p;
+    padding: 10px;
 }
 .main-content .main-btn {
     font-size:  1.8rem;
@@ -435,7 +435,7 @@ footer .container .btn-logo{
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
-
+    background-position: center;
 }
 form{
     background-color: #131313;
